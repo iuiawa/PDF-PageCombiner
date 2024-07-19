@@ -1,0 +1,2 @@
+# PDF-PageCombiner
+这是一个用于把PDF中的每两个页面合成一个PDF图片页面的仓库
